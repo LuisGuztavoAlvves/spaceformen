@@ -1,0 +1,19 @@
+
+#banner{
+    width: 100%;
+    padding: center;
+    border-radius: 15px;
+}
+h1{
+    text-align: center;
+}
+.missao{
+    font-size: 20px;
+}
+.itens{
+    font-style: italic;
+}
+em, strong{
+    color: #f00;
+}
+
